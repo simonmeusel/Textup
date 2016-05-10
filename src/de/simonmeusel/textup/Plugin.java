@@ -8,7 +8,6 @@ import java.util.HashMap;
 
 import javax.imageio.ImageIO;
 
-import org.bukkit.Location;
 import org.bukkit.Material;
 import org.bukkit.World;
 import org.bukkit.command.Command;
@@ -58,8 +57,6 @@ public class Plugin extends JavaPlugin {
 			}
 
 			String text = stringBuilder.toString();
-
-			Location loc = player.getLocation();
 			
 			int sx = player.getLocation().getBlockX();
 			int sy = player.getLocation().getBlockY();
