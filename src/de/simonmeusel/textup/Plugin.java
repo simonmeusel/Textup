@@ -54,7 +54,7 @@ public class Plugin extends JavaPlugin {
 			StringBuilder stringBuilder = new StringBuilder();
 
 			for (String arg : args) {
-				stringBuilder.append(arg);
+				stringBuilder.append(arg + " ");
 			}
 
 			String text = stringBuilder.toString();
