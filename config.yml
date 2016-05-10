@@ -1,0 +1,11 @@
+font:
+  path: "ascii.png"
+  width: 128
+  height: 128
+  lettersX: 16
+  lettersY: 16
+  color:
+    block:
+      r: 0
+      g: 0
+      b: 0

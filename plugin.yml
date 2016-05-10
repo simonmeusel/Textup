@@ -1,0 +1,9 @@
+name: Textup
+version: 1.0
+main: de.simonmeusel.textup.Plugin
+
+commands:
+  textup:
+    description: Generate text
+    permission: textup.textup
+    usage: As Player /textup <text>
