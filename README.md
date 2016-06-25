@@ -3,7 +3,7 @@ Minecraft plugin to generate text (huge text)
 
 Yeah, you heared right. Now you can generate huge text in minecraft. And it's for free. You only have to install a plugin. Right, thst's easy.
 
-{Textup}  Copyright (C) {2016}  {Simon Meusel}
+Textup  Copyright (C) 2016  Simon Meusel
     This program comes with ABSOLUTELY NO WARRANTY;
     This is free software, and you are welcome to redistribute it
     under certain conditions;
