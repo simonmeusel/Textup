@@ -1,8 +1,6 @@
 # Textup
 Minecraft plugin to generate text (huge text)
 
-Yeah, you heared right. Now you can generate huge text in minecraft. And it's for free. You only have to install a plugin. Right, thst's easy.
-
 Textup  Copyright (C) 2016  Simon Meusel
 
     This program comes with ABSOLUTELY NO WARRANTY;
@@ -16,5 +14,3 @@ Textup  Copyright (C) 2016  Simon Meusel
  - Copy the `\assets\minecraft\textures\font\ascii.png` into the `server\plugins\textup\` folder
  - Strat the server
  - Type /textup text you want to display
-
-Right, it's as easy as this!
